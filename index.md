@@ -12,8 +12,7 @@ or its own portal is offline.
 
 {% include node-status-v1.0.html node="57945" %}
 
-- **[About This Node](about.md)** — what 57945 is, how to connect, and its
-  weekday schedule
+- **[About This Node](about.md)** — what 57945 is and how to connect
 - **[Changelog](changelog.md)** — notable changes to the node over time
 
 The node's live portal, with its dashboard, is at [kj7t.net](https://kj7t.net).
