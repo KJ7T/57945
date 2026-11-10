@@ -8,7 +8,8 @@ Notable changes to node 57945 over time, newest first. Entries before
 November 10, 2026 were carried over from the change log on kj7t.net.
 
 - **2026-11-10** — Ended the scheduled weekday monitor link to node 55915
-  (WA7ABU net).
+  (WA7ABU net), and stopped the automatic reconnect monitor that kept
+  that link up.
 - **2026-11-10** — Created this GitHub space to document node 57945.
 - **2026-03-18** — Added an automatic reconnect monitor for node 55915,
   running as a system service.
